@@ -1,0 +1,24 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.venv/
+venv/
+
+# All regenerated analysis artifacts, logs, caches, and test outputs
+work/
+
+# Source data must be obtained separately and must never be committed by default
+data/raw/
+*.zip
+
+# Candidate derived data and unpublished outputs require separate author approval
+data/figure_data/
+results/
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -124,10 +124,12 @@ pre-publication package.
 
 ## Code availability
 
-This directory is a local release candidate prepared for review; no public
-GitHub or Zenodo record has been created. The authors must complete
-[`RELEASE_CHECKLIST.md`](RELEASE_CHECKLIST.md) before pushing it to any remote
-platform.
+This code-and-documentation package is available in the authors' designated
+[private GitHub repository](https://github.com/Daisy30823/global-food-trade-scaling).
+It intentionally excludes the FAOSTAT archive, candidate derived data, and
+candidate results. No Zenodo record has been created. The authors must complete
+[`RELEASE_CHECKLIST.md`](RELEASE_CHECKLIST.md) before any future public release
+or archival deposit.
 
 ## Citation
 
